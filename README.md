@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MisterG-main
-- 👀 I’m interested in knowledge
+- 👀 I’m interested in Knowledge and Money
 
 <!---
 MisterG-main/MisterG-main is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
